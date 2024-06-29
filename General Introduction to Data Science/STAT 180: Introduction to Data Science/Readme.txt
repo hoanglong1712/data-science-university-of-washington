@@ -11,7 +11,7 @@ the R statistical computing language.
 Course Materials
 • Optional Textbooks:
 – The Foundations of Data Science by Ani Adhikari and John DeNero.
-– R for Data Science by Wickham Grolemund.
+– R for Data Science by Wickham Grolemund. https://r4ds.hadley.nz/
 – Open Intro Statistics, 4th ed.: Diez, D.M.; Cetinkaya-Rundel, M.; Barr, C.D. A free pdf
 copy of the book can be found here.
 
