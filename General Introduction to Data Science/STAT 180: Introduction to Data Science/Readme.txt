@@ -1,3 +1,4 @@
+youtube: https://www.youtube.com/playlist?list=PLIpLw6v7Z1ql09iTV-oah5lqPsp4KEUaS
 link:
 
 https://stat.uw.edu/sites/default/files/2024-01/STAT%20180%20Course%20Syllabus.pdf
